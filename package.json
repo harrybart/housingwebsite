@@ -1,0 +1,8 @@
+{
+  "name": "housingwebsite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/harrybart/Housing-Website.git",
+  "author": "Harry Bart <animationsbart@gmail.com>",
+  "license": "MIT"
+}
