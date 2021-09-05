@@ -1143,31 +1143,31 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-0.2.3.tgz#75a2e8b51cb758a7553d6804a5932d7aace75c39"
   integrity sha512-0hYQ8SB4Db5zvZB4axdMHGwEaQjkZzFjQiN9LVYvIFB2nSUHW9tYpxWriPrWDASIxiaXax83REcLxuSdnGPZtw==
 
-"@beyond-ui/react@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@beyond-ui/react/-/react-1.2.0.tgz#8f78d0263645fbeefdffa4c75d68b18ae05e8156"
-  integrity sha512-F0ga3HXDTVR6rN2NeJisk8B+HKZgZcohVA68W5aqL9mvLTwNUrE09aI4Twrv8GxcCrpE6daSTxD9GxnMQP7s9Q==
+"@beyond-ui/react@^1.2.1":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@beyond-ui/react/-/react-1.2.1.tgz#9b1d068665c7d35d62e1e777e9110f3ce268ae01"
+  integrity sha512-lRDMvgTgMHDaFF29CwPCQoE7g0nRsDp3863xQoYzsyt62ZckVvMI8SRi7CEjHmZ18XmxlWsTAHiDKt5+3zw1+Q==
   dependencies:
-    "@beyond-ui/shared" "^1.0.3"
-    "@beyond-ui/system" "^1.2.0"
+    "@beyond-ui/shared" "^1.0.4"
+    "@beyond-ui/system" "^1.2.1"
     "@beyond-ui/theme" "^1.1.0"
     "@emotion/css" "^11.1.3"
     react-icons "^4.2.0"
     react-spinners "^0.11.0"
 
-"@beyond-ui/shared@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@beyond-ui/shared/-/shared-1.0.3.tgz#d6e18c4806d9605069dec8664098836ba38919ee"
-  integrity sha512-xvw67DxhILg/TgR/dPq5J7orU+LP2o5tfEQ7Ex8IkHgnoXbA2qutF+kYB5XhRdxoBrMrLWaGHDP6xevIsWhNIA==
+"@beyond-ui/shared@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@beyond-ui/shared/-/shared-1.0.4.tgz#8b7aca6240354adadb860522608a571ed81f47fd"
+  integrity sha512-8j4zmPqdNVzgV3MvKC9SFEjZGlZ/WO9iT1HhXZuNgAmLJMi12Zda7Sz4X7TYpx9jW5Mb0qOlw/OZw7fKY08gmw==
   dependencies:
-    "@beyond-ui/system" "^1.2.0"
+    "@beyond-ui/system" "^1.2.1"
     "@beyond-ui/theme" "^1.1.0"
     "@beyond-ui/utils" "^0.0.1"
 
-"@beyond-ui/system@^1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@beyond-ui/system/-/system-1.2.0.tgz#82eca0d46abff8517f5e751fb2a389e70b313696"
-  integrity sha512-ueslE/7UF6PJS3Xp+ydrIqI79UJovJ1MCND7wP9PJX/iU4e1DBUItZSMMLRWKS4PK+4otS4C3IZApNoXj2Ipag==
+"@beyond-ui/system@^1.2.1":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@beyond-ui/system/-/system-1.2.1.tgz#5d5de46e44a92a8f5d0fd06eef871233ae96cce0"
+  integrity sha512-skCbXZPYPlWRLO0kqLOi75HvY06GtdATiaj/zB03sZScebmMt55H6mQRQpEsYaXXFURJngAaMjbhWIJejuaExw==
   dependencies:
     "@beyond-ui/theme" "^1.1.0"
     "@beyond-ui/utils" "^0.0.1"
@@ -1181,9 +1181,9 @@
     "@beyond-ui/utils" "^0.0.1"
 
 "@beyond-ui/utils@^0.0.1":
-  version "0.0.0"
-  resolved "https://registry.yarnpkg.com/@beyond-ui/utils/-/utils-0.0.0.tgz#0fc4d5d42017b453a6e43dcab0961d8c07fe1d9c"
-  integrity sha512-kvPIY2DvxSwWPIwryyRXCHTtjJxtJwBQRreQH504SYUmXBqNv2d02TJUKrht8D8phbXsdiKj+HAGn9Q7JCxgNA==
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@beyond-ui/utils/-/utils-0.0.1.tgz#773b83371c42a9b224d150cc376c876891b6623e"
+  integrity sha512-/Dx0AiPXg3SE1elvbUj10F0BLuvj6Kv/NiCzFY/5ML7uLtWg/KtSrN7XKeaJCBGLxotKvQnxGxlvCxVyY/TjDw==
 
 "@cnakazawa/watch@^1.0.3":
   version "1.0.4"

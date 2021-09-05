@@ -8,7 +8,7 @@
   "scripts": {
     "start": "yarn --cwd website start"
   },
-  "dependencies": {
+  "devDependencies": {
     "@types/prettier": "^2.3.2",
     "@typescript-eslint/eslint-plugin": "^4.30.0",
     "@typescript-eslint/parser": "^4.30.0",
@@ -17,10 +17,5 @@
     "eslint-plugin-prettier": "^4.0.0",
     "prettier": "^2.3.2",
     "prettier-eslint": "^13.0.0"
-  },
-  "devDependencies": {
-    "autoprefixer": "^9.8.6",
-    "postcss": "^7.0.36",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.9"
   }
 }
